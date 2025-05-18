@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'Raiting_Bar_Widget.dart';
 
-// Paste the entire HighEndRatingBar widget code here (or better: put it in a separate file)
 
 void main() {
   runApp(const MyApp());
